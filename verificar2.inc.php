@@ -1,0 +1,1 @@
+<h1>verificar2.INC.PHP</h1>

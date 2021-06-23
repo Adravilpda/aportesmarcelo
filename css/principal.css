@@ -1,0 +1,31 @@
+.cuerpoKardex {
+	background: black;
+	margin-right: 20px;
+	margin-left: 20px;
+	Position: absolute;
+	top: 50px;
+	left: 150px;
+}
+.cabecera2{
+	background: black;
+	margin-right: 20px;
+	margin-left: 20px;
+	Position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+.menus{
+	background:red;
+       width: 200px;
+       height: 200px;
+	   left: 500px;
+       position: absolute;
+}
+.footer {
+	height:500;
+	padding: 10px ;
+	background-color: #171616;
+	position: relative;/* esto da a IE6 hasLayout para borrar correctamente */
+	clear: both; /* esta propiedad de borrado fuerza a .container a conocer dónde terminan las columnas y a contenerlas */
+}
